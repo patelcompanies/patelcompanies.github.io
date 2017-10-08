@@ -62,7 +62,7 @@ img.aligncenter {
   margin-left: auto; }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #333;
   border-style: none; }
 
 body,
@@ -101,19 +101,19 @@ body.page-template-page-fullsingle-me {
   font-size: 45px;
   line-height: 60px;
   letter-spacing: -0.5px;
-  color: #999999;
+  color: #FFF;
   background-image: url("../../images/background.jpg");
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #999999; }
+    color: #FFF; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
         line-height: 40px; } }
 
-small { font-size: 25px; }
+small { font-size: 30px; }
 
 .fs-me {
   padding: 10vh 10vw;
@@ -241,7 +241,7 @@ small { font-size: 25px; }
     -webkit-animation: fadein 8s;
             animation: fadein 8s; }
     .network p.credit a {
-      color: #999999; }
+      color: #FFF; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
