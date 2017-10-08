@@ -1,10 +1,3 @@
-/*
-Template Name: Me
-Author: One Page Love
-Author URI: https://onepagelove.com
-Template URI: https://onepagelove.com/me
-Description: Me is a slick, personal layout for any individual wanting a minimal online presence. Features include a big background image or video, logo, bio and icons.
-*/
 /* -- CSS Reset -- */
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500");
 html, body, div, span, applet, object, iframe,
@@ -119,6 +112,8 @@ body.page-template-page-fullsingle-me {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
         line-height: 40px; } }
+
+small { font-size: 25px; }
 
 .fs-me {
   padding: 10vh 10vw;
