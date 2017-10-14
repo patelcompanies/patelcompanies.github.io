@@ -95,15 +95,12 @@ html {
 
 body.page-template-page-fullsingle-me {
   height: 100vh;
-  background-color: #282828;
+  background-color: #F5F7FA;
   font-family: 'Lato', sans-serif;
   font-weight: 600;
   font-size: 45px;
   line-height: 60px;
-  color: #FFF;
-  background-image: url("../../images/background.jpg");
-  background-position: center center;
-  background-size: cover; }
+  color: #434A54;
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
     color: #FFF; }
@@ -181,10 +178,10 @@ small { font-size: 30px; }
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: #9B59B6;
     transition: 1s; }
     .bio a:hover {
-      color: #FFFFFF;
+      color: #8E44AD;
       transition: 0.1s; }
 
 .network {
@@ -220,15 +217,15 @@ small { font-size: 30px; }
         .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
-          fill: #999999;
+          fill: #95A5A6;
           transition: 1s; }
         .network ul li a .svg-icon circle {
-          stroke: #999999;
+          stroke: #95A5A6;
           stroke-width: 1; }
       .network ul li a:hover .svg-icon path,
       .network ul li a:hover .svg-icon polygon,
       .network ul li a:hover .svg-icon rect {
-        fill: #FFFFFF;
+        fill: #2ECC71;
         transition: 0.1s; }
   .network p.credit {
     opacity: 0.4;
@@ -239,7 +236,7 @@ small { font-size: 30px; }
     -webkit-animation: fadein 8s;
             animation: fadein 8s; }
     .network p.credit a {
-      color: #FFF; }
+      color: #95A5A6; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
