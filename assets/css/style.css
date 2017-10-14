@@ -62,7 +62,7 @@ img.aligncenter {
   margin-left: auto; }
 
 body {
-  background-color: #282828;
+  background-color: #F5F7FA;
   border-style: none; }
 
 body,
@@ -91,7 +91,7 @@ a:hover {
     opacity: 1; } }
 
 html {
-  background-color: #282828; }
+  background-color: #F5F7FA; }
 
 body.page-template-page-fullsingle-me {
   height: 100vh;
