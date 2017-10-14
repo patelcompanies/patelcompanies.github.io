@@ -100,7 +100,6 @@ body.page-template-page-fullsingle-me {
   font-weight: 600;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: -0.5px;
   color: #FFF;
   background-image: url("../../images/background.jpg");
   background-position: center center;
@@ -177,7 +176,6 @@ small { font-size: 30px; }
           justify-content: center;
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
-  letter-spacing: -1px;
   max-width: 66%; }
   @media (max-width: 800px) {
     .bio {
